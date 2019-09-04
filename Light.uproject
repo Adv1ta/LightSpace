@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{486A84DD-417D-2AAE-0647-949F57868B60}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Light",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "OpenVRExpansionPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "VRExpansionPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "WmfMedia",
+			"Enabled": false
+		}
+	]
+}
